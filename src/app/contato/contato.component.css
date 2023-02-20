@@ -42,3 +42,12 @@
 .contact-form button:disabled:hover {
     filter: none;
 }
+
+/* FormControls */
+.valid {
+    border-color: green;
+}
+
+.invalid {
+    border-color: red;
+}
