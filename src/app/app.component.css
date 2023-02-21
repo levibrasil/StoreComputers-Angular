@@ -1,4 +1,8 @@
 .container {
+    /* 
+    widht não está sendo aplicada
+    pois o valor está entre aspas
+    */
     width: "80%";
     margin: auto;
     padding: 20px;
